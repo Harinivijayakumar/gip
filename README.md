@@ -1,2 +1,3 @@
 # gip
-#from vs code editor
+#from git
+#from vscode
